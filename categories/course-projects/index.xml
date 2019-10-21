@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Projects | CHENGHAN WU</title>
+    <link>https://henry32144.github.io/hugo-website/categories/course-projects/</link>
+      <atom:link href="https://henry32144.github.io/hugo-website/categories/course-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Course Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 ChengHan Wu</copyright><lastBuildDate>Mon, 21 Oct 2019 20:05:54 +0800</lastBuildDate>
+    <image>
+      <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
+      <title>Course Projects</title>
+      <link>https://henry32144.github.io/hugo-website/categories/course-projects/</link>
+    </image>
+    
+    <item>
+      <title>Collaboration and Competition</title>
+      <link>https://henry32144.github.io/hugo-website/project/drlnd-collab-compet/</link>
+      <pubDate>Mon, 21 Oct 2019 20:05:54 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/drlnd-collab-compet/</guid>
+      <description>&lt;p&gt;In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Control</title>
+      <link>https://henry32144.github.io/hugo-website/project/drlnd-continuous-control/</link>
+      <pubDate>Mon, 21 Oct 2019 19:20:04 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/drlnd-continuous-control/</guid>
+      <description>&lt;p&gt;In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent&amp;rsquo;s hand is in the goal location. Currently, I use DDPG to solve the multi-agents version of this environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Health Tracker</title>
+      <link>https://henry32144.github.io/hugo-website/project/health-tracker/</link>
+      <pubDate>Mon, 21 Oct 2019 19:12:06 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/health-tracker/</guid>
+      <description>&lt;p&gt;This is health tracker website, you can use this to track your daily calories, get food data from Nutritionix.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Navigation</title>
+      <link>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</link>
+      <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</guid>
+      <description>&lt;p&gt;This project use &lt;a href=&#34;https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf&#34; target=&#34;_blank&#34;&gt;Deep Q Network&lt;/a&gt; to train an agent to navigate (and collect bananas!) in a large, square world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udacity Android Basics</title>
+      <link>https://henry32144.github.io/hugo-website/project/udacity-android-basics/</link>
+      <pubDate>Mon, 21 Oct 2019 18:09:12 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/udacity-android-basics/</guid>
+      <description>&lt;p&gt;These are my homeworks of Udactiy Android Basic Nanodegree&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular Movies</title>
+      <link>https://henry32144.github.io/hugo-website/project/popular-movies/</link>
+      <pubDate>Mon, 21 Oct 2019 16:02:39 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/popular-movies/</guid>
+      <description>&lt;p&gt;This is an app that provides movies information, and user can sort movies by popularity or ratings, add favorite movies, and watch trailers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stock Price Indicator</title>
+      <link>https://henry32144.github.io/hugo-website/project/stock-price-indicator/</link>
+      <pubDate>Mon, 21 Oct 2019 15:50:11 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/stock-price-indicator/</guid>
+      <description>&lt;p&gt;This is a research about using Machine Learning technique to predict the stock price.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(Don&amp;rsquo;t use in real investment otherwise you&amp;rsquo;ll lose money)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sushi Hunter</title>
+      <link>https://henry32144.github.io/hugo-website/project/sushi-hunter/</link>
+      <pubDate>Mon, 21 Oct 2019 15:48:14 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/sushi-hunter/</guid>
+      <description>&lt;p&gt;This project is for users to search sushi restaurants around, providing simple information about the restaurants, to help ninjas(?) solve their lunch problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This demo may not work correctly due to my Google map API key and the Facebook API key has changed or expired&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

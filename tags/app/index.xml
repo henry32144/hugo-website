@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App | CHENGHAN WU</title>
+    <link>https://henry32144.github.io/hugo-website/tags/app/</link>
+      <atom:link href="https://henry32144.github.io/hugo-website/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <description>App</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 ChengHan Wu</copyright><lastBuildDate>Mon, 21 Oct 2019 20:32:31 +0800</lastBuildDate>
+    <image>
+      <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
+      <title>App</title>
+      <link>https://henry32144.github.io/hugo-website/tags/app/</link>
+    </image>
+    
+    <item>
+      <title>Aqua Lighting</title>
+      <link>https://henry32144.github.io/hugo-website/project/aqua-lighting/</link>
+      <pubDate>Mon, 21 Oct 2019 20:32:31 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/aqua-lighting/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;(Project Still Progressing)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Building IOS/Android Apps integrated with Amazon Web Services to control aquarium lighting device.&lt;/p&gt;
+
+&lt;p&gt;This project is a freelance project I participated in. I made the part of IOS/Android Apps and AWS Services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Udacity Android Basics</title>
+      <link>https://henry32144.github.io/hugo-website/project/udacity-android-basics/</link>
+      <pubDate>Mon, 21 Oct 2019 18:09:12 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/udacity-android-basics/</guid>
+      <description>&lt;p&gt;These are my homeworks of Udactiy Android Basic Nanodegree&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular Movies</title>
+      <link>https://henry32144.github.io/hugo-website/project/popular-movies/</link>
+      <pubDate>Mon, 21 Oct 2019 16:02:39 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/popular-movies/</guid>
+      <description>&lt;p&gt;This is an app that provides movies information, and user can sort movies by popularity or ratings, add favorite movies, and watch trailers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

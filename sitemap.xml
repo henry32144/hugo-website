@@ -3,15 +3,161 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hugo-test/categories/</loc>
+    <loc>https://henry32144.github.io/hugo-website/tags/app/</loc>
+    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-test/</loc>
+    <loc>https://henry32144.github.io/hugo-website/project/aqua-lighting/</loc>
+    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-test/tags/</loc>
+    <loc>https://henry32144.github.io/hugo-website/categories/</loc>
+    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/</loc>
+    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/categories/freelance-projects/</loc>
+    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/</loc>
+    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/tags/</loc>
+    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/authors/</loc>
+    <lastmod>2019-10-21T20:14:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/authors/chenghan-wu/</loc>
+    <lastmod>2019-10-21T20:14:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/categories/projects/</loc>
+    <lastmod>2019-10-21T20:14:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/tags/reinforcement-learning/</loc>
+    <lastmod>2019-10-21T20:14:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/td3-pytorch/</loc>
+    <lastmod>2019-10-21T20:14:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/drlnd-collab-compet/</loc>
+    <lastmod>2019-10-21T20:05:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/categories/course-projects/</loc>
+    <lastmod>2019-10-21T20:05:54+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/authors/chihchun-chen/</loc>
+    <lastmod>2019-10-21T19:30:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/tags/deep-learning/</loc>
+    <lastmod>2019-10-21T19:30:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/tucana-neural-style/</loc>
+    <lastmod>2019-10-21T19:30:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/tags/website/</loc>
+    <lastmod>2019-10-21T19:30:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/authors/weizuo-lin/</loc>
+    <lastmod>2019-10-21T19:30:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/drlnd-continuous-control/</loc>
+    <lastmod>2019-10-21T19:20:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/health-tracker/</loc>
+    <lastmod>2019-10-21T19:12:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</loc>
+    <lastmod>2019-10-21T18:23:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/udacity-android-basics/</loc>
+    <lastmod>2019-10-21T18:09:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/popular-movies/</loc>
+    <lastmod>2019-10-21T16:02:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/tags/machine-learning/</loc>
+    <lastmod>2019-10-21T15:50:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/stock-price-indicator/</loc>
+    <lastmod>2019-10-21T15:50:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/sushi-hunter/</loc>
+    <lastmod>2019-10-21T15:48:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/accomplishments/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/certifications/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/projects/</loc>
+    <lastmod>2019-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/authors/chenghan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/publication_types/</loc>
   </url>
   
 </urlset>
