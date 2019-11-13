@@ -94,6 +94,15 @@
     </item>
     
     <item>
+      <title>Kuzushiji Recognition</title>
+      <link>https://henry32144.github.io/hugo-website/project/kaggle-kuzushiji/</link>
+      <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/kaggle-kuzushiji/</guid>
+      <description>&lt;p&gt;This repo contains the jupyter notebook solution of kuzushiji recognition, we separate the recognition task into the detection part and the classification part.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Navigation</title>
       <link>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</link>
       <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
