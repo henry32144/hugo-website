@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://henry32144.github.io/hugo-website/authors/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/categories/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/authors/chenghan-wu/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/cyclegan-notebook/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/tags/deep-learning/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/project/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/categories/projects/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://henry32144.github.io/hugo-website/tags/</loc>
+    <lastmod>2019-12-18T17:30:39+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://henry32144.github.io/hugo-website/tags/app/</loc>
     <lastmod>2019-10-21T20:32:31+08:00</lastmod>
   </url>
@@ -13,43 +58,8 @@
   </url>
   
   <url>
-    <loc>https://henry32144.github.io/hugo-website/categories/</loc>
-    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://henry32144.github.io/hugo-website/</loc>
-    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://henry32144.github.io/hugo-website/categories/freelance-projects/</loc>
     <lastmod>2019-10-21T20:32:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://henry32144.github.io/hugo-website/project/</loc>
-    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://henry32144.github.io/hugo-website/tags/</loc>
-    <lastmod>2019-10-21T20:32:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://henry32144.github.io/hugo-website/authors/</loc>
-    <lastmod>2019-10-21T20:14:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://henry32144.github.io/hugo-website/authors/chenghan-wu/</loc>
-    <lastmod>2019-10-21T20:14:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://henry32144.github.io/hugo-website/categories/projects/</loc>
-    <lastmod>2019-10-21T20:14:43+08:00</lastmod>
   </url>
   
   <url>
@@ -74,11 +84,6 @@
   
   <url>
     <loc>https://henry32144.github.io/hugo-website/authors/chihchun-chen/</loc>
-    <lastmod>2019-10-21T19:30:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://henry32144.github.io/hugo-website/tags/deep-learning/</loc>
     <lastmod>2019-10-21T19:30:23+08:00</lastmod>
   </url>
   

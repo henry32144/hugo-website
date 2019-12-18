@@ -5,12 +5,21 @@
     <link>https://henry32144.github.io/hugo-website/tags/deep-learning/</link>
       <atom:link href="https://henry32144.github.io/hugo-website/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 ChengHan Wu</copyright><lastBuildDate>Mon, 21 Oct 2019 19:30:23 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 ChengHan Wu</copyright><lastBuildDate>Wed, 18 Dec 2019 17:30:39 +0800</lastBuildDate>
     <image>
       <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
       <title>Deep Learning</title>
       <link>https://henry32144.github.io/hugo-website/tags/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>CycleGAN notebook</title>
+      <link>https://henry32144.github.io/hugo-website/project/cyclegan-notebook/</link>
+      <pubDate>Wed, 18 Dec 2019 17:30:39 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/cyclegan-notebook/</guid>
+      <description>&lt;p&gt;Implement CycleGAN with Tensorflow 2.0 and PyTorch&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tucana Neural Style</title>
