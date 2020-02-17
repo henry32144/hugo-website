@@ -5,12 +5,27 @@
     <link>https://henry32144.github.io/hugo-website/tags/website/</link>
       <atom:link href="https://henry32144.github.io/hugo-website/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <description>Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 ChengHan Wu</copyright><lastBuildDate>Mon, 21 Oct 2019 19:30:23 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 ChengHan Wu</copyright><lastBuildDate>Mon, 17 Feb 2020 20:24:55 +0800</lastBuildDate>
     <image>
       <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
       <title>Website</title>
       <link>https://henry32144.github.io/hugo-website/tags/website/</link>
     </image>
+    
+    <item>
+      <title>Mask Search</title>
+      <link>https://henry32144.github.io/hugo-website/project/mask-search/</link>
+      <pubDate>Mon, 17 Feb 2020 20:24:55 +0800</pubDate>
+      <guid>https://henry32144.github.io/hugo-website/project/mask-search/</guid>
+      <description>&lt;p&gt;This is a &lt;a href=&#34;https://mask-search.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;mask searching website&lt;/a&gt; that provides user with the visualized data of how many mask remain in each county of Taiwan. User can also type the store name or location to search for the stores and check the mask stocks. Hoping this may help any people in Taiwan to buy mask and keep the virus away.&lt;/p&gt;
+
+&lt;p&gt;There are two parts of this project:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/henry32144/mask-search&#34; target=&#34;_blank&#34;&gt;FrontEnd Website&lt;/a&gt; and &lt;a href=&#34;https://github.com/henry32144/mask-search-server&#34; target=&#34;_blank&#34;&gt;BackEnd Server&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: The language of webiste is Chinese.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tucana Neural Style</title>
