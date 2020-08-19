@@ -17,7 +17,7 @@
       <link>https://henry32144.github.io/hugo-website/project/td3-pytorch/</link>
       <pubDate>Mon, 21 Oct 2019 20:14:43 +0800</pubDate>
       <guid>https://henry32144.github.io/hugo-website/project/td3-pytorch/</guid>
-      <description>&lt;p&gt;This project is a Pytorch implentation of TD3. The paper can be found here &lt;a href=&#34;https://arxiv.org/abs/1802.09477&#34; target=&#34;_blank&#34;&gt;Addressing Function Approximation Error in Actor-Critic Methods&lt;/a&gt; by Scott Fujimoto, Herke van Hoof and David Meger.&lt;/p&gt;
+      <description>&lt;p&gt;This project is a Pytorch implentation of TD3. The paper can be found here &lt;a href=&#34;https://arxiv.org/abs/1802.09477&#34;&gt;Addressing Function Approximation Error in Actor-Critic Methods&lt;/a&gt; by Scott Fujimoto, Herke van Hoof and David Meger.&lt;/p&gt;
 </description>
     </item>
     
@@ -44,7 +44,7 @@
       <link>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</link>
       <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
       <guid>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</guid>
-      <description>&lt;p&gt;This project use &lt;a href=&#34;https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf&#34; target=&#34;_blank&#34;&gt;Deep Q Network&lt;/a&gt; to train an agent to navigate (and collect bananas!) in a large, square world.&lt;/p&gt;
+      <description>&lt;p&gt;This project use &lt;a href=&#34;https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf&#34;&gt;Deep Q Network&lt;/a&gt; to train an agent to navigate (and collect bananas!) in a large, square world.&lt;/p&gt;
 </description>
     </item>
     

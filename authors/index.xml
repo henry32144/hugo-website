@@ -5,55 +5,12 @@
     <link>https://henry32144.github.io/hugo-website/authors/</link>
       <atom:link href="https://henry32144.github.io/hugo-website/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 ChengHan Wu</copyright><lastBuildDate>Tue, 18 Feb 2020 11:14:55 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 ChengHan Wu</copyright><lastBuildDate>Wed, 19 Aug 2020 16:38:00 +0800</lastBuildDate>
     <image>
       <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://henry32144.github.io/hugo-website/authors/</link>
     </image>
-    
-    <item>
-      <title>ChengHan Wu</title>
-      <link>https://henry32144.github.io/hugo-website/authors/chenghan-wu/</link>
-      <pubDate>Tue, 18 Feb 2020 11:14:55 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/authors/chenghan-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChihChun Chen</title>
-      <link>https://henry32144.github.io/hugo-website/authors/chihchun-chen/</link>
-      <pubDate>Mon, 21 Oct 2019 19:30:23 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/authors/chihchun-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WeiZuo Lin</title>
-      <link>https://henry32144.github.io/hugo-website/authors/weizuo-lin/</link>
-      <pubDate>Mon, 21 Oct 2019 19:30:23 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/authors/weizuo-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LungIn Lin</title>
-      <link>https://henry32144.github.io/hugo-website/authors/lungin-lin/</link>
-      <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/authors/lungin-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://henry32144.github.io/hugo-website/authors/chenghan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/authors/chenghan/</guid>
-      <description>&lt;p&gt;Hi, I graduated from Computer Science at Tunghai University in Taiwan. I&amp;rsquo;m interested in Reinforcement Learning, Computer Vision, Generative Adversarial Networks and Artificial Intelligence applications.&lt;/p&gt;
-
-&lt;p&gt;I am serving my 4-month Military Service Obligation from 2020/2/19 to 2020/05/29. In my free time, I&amp;rsquo;m studying Computer Vision skills by participating in Kaggle competitions, also learning to make games. Hoping to apply the knowledge I learned about AI to make the world more interesting.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

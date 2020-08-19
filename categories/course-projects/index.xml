@@ -44,7 +44,7 @@
       <link>https://henry32144.github.io/hugo-website/project/dog-project/</link>
       <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
       <guid>https://henry32144.github.io/hugo-website/project/dog-project/</guid>
-      <description>&lt;p&gt;This project uses deep learning models to classify  dog breeds. The &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report.html&#34; target=&#34;_blank&#34;&gt;Report&lt;/a&gt; was the Udacity MLND homework I finished in 2018. &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report_v2.html&#34; target=&#34;_blank&#34;&gt;Improved&lt;/a&gt; contains the modification I did to improve the accuracy of the model. &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report_mobilenet.html&#34; target=&#34;_blank&#34;&gt;MobileNet&lt;/a&gt; is mainly based on Improved, but change the Xception model to MobileNetV2, which is better for application.&lt;/p&gt;
+      <description>&lt;p&gt;This project uses deep learning models to classify  dog breeds. The &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report.html&#34;&gt;Report&lt;/a&gt; was the Udacity MLND homework I finished in 2018. &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report_v2.html&#34;&gt;Improved&lt;/a&gt; contains the modification I did to improve the accuracy of the model. &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report_mobilenet.html&#34;&gt;MobileNet&lt;/a&gt; is mainly based on Improved, but change the Xception model to MobileNetV2, which is better for application.&lt;/p&gt;
 </description>
     </item>
     
@@ -53,7 +53,7 @@
       <link>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</link>
       <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
       <guid>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</guid>
-      <description>&lt;p&gt;This project use &lt;a href=&#34;https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf&#34; target=&#34;_blank&#34;&gt;Deep Q Network&lt;/a&gt; to train an agent to navigate (and collect bananas!) in a large, square world.&lt;/p&gt;
+      <description>&lt;p&gt;This project use &lt;a href=&#34;https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf&#34;&gt;Deep Q Network&lt;/a&gt; to train an agent to navigate (and collect bananas!) in a large, square world.&lt;/p&gt;
 </description>
     </item>
     
@@ -81,7 +81,6 @@
       <pubDate>Mon, 21 Oct 2019 15:50:11 +0800</pubDate>
       <guid>https://henry32144.github.io/hugo-website/project/stock-price-indicator/</guid>
       <description>&lt;p&gt;This is a research about using Machine Learning technique to predict the stock price.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;(Don&amp;rsquo;t use in real investment otherwise you&amp;rsquo;ll lose money)&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
@@ -92,7 +91,6 @@
       <pubDate>Mon, 21 Oct 2019 15:48:14 +0800</pubDate>
       <guid>https://henry32144.github.io/hugo-website/project/sushi-hunter/</guid>
       <description>&lt;p&gt;This project is for users to search sushi restaurants around, providing simple information about the restaurants, to help ninjas(?) solve their lunch problem.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;This demo may not work correctly due to my Google map API key and the Facebook API key has changed or expired&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
