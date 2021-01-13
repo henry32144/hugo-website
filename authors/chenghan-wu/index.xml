@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChengHan Wu | CHENGHAN WU</title>
-    <link>https://henry32144.github.io/hugo-website/authors/chenghan-wu/</link>
-      <atom:link href="https://henry32144.github.io/hugo-website/authors/chenghan-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://henry32144.github.io/authors/chenghan-wu/</link>
+      <atom:link href="https://henry32144.github.io/authors/chenghan-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>ChengHan Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 ChengHan Wu</copyright><lastBuildDate>Wed, 19 Aug 2020 16:38:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 ChengHan Wu</copyright><lastBuildDate>Wed, 19 Aug 2020 16:38:00 +0800</lastBuildDate>
     <image>
-      <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
+      <url>https://henry32144.github.io/img/icon-192.png</url>
       <title>ChengHan Wu</title>
-      <link>https://henry32144.github.io/hugo-website/authors/chenghan-wu/</link>
+      <link>https://henry32144.github.io/authors/chenghan-wu/</link>
     </image>
     
     <item>
       <title>Intelligent Asset Allocation</title>
-      <link>https://henry32144.github.io/hugo-website/project/intelligent-asset-allocation/</link>
+      <link>https://henry32144.github.io/project/intelligent-asset-allocation/</link>
       <pubDate>Wed, 19 Aug 2020 16:38:00 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/intelligent-asset-allocation/</guid>
+      <guid>https://henry32144.github.io/project/intelligent-asset-allocation/</guid>
       <description>&lt;p&gt;This is a MVP(Minimal Viable Product) of asset allocation web application, which can help users build their stock portfolio using model like Black-litterman.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sngan Projection</title>
-      <link>https://henry32144.github.io/hugo-website/project/sngan-projection/</link>
+      <link>https://henry32144.github.io/project/sngan-projection/</link>
       <pubDate>Tue, 18 Feb 2020 11:14:55 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/sngan-projection/</guid>
+      <guid>https://henry32144.github.io/project/sngan-projection/</guid>
       <description>&lt;p&gt;Using SNGAN and Projection Discriminator to make food images!&lt;/p&gt;
 &lt;p&gt;The dataset used to train is &lt;a href=&#34;https://www.vision.ee.ethz.ch/datasets_extra/food-101/&#34;&gt;Food-101&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -33,9 +33,9 @@
     
     <item>
       <title>Mask Search</title>
-      <link>https://henry32144.github.io/hugo-website/project/mask-search/</link>
+      <link>https://henry32144.github.io/project/mask-search/</link>
       <pubDate>Mon, 17 Feb 2020 20:24:55 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/mask-search/</guid>
+      <guid>https://henry32144.github.io/project/mask-search/</guid>
       <description>&lt;p&gt;This is a &lt;a href=&#34;https://mask-search.herokuapp.com/&#34;&gt;mask searching website&lt;/a&gt; that provides user with the visualized data of how many mask remain in each county of Taiwan. User can also type the store name or location to search for the stores and check the mask stocks. Hoping this may help any people in Taiwan to buy mask and keep the virus away.&lt;/p&gt;
 &lt;p&gt;There are two parts of this project:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/henry32144/mask-search&#34;&gt;FrontEnd Website&lt;/a&gt; and &lt;a href=&#34;https://github.com/henry32144/mask-search-server&#34;&gt;BackEnd Server&lt;/a&gt;&lt;/p&gt;
@@ -45,45 +45,45 @@
     
     <item>
       <title>PGGAN Tensorflow</title>
-      <link>https://henry32144.github.io/hugo-website/project/pggan-tensorflow/</link>
+      <link>https://henry32144.github.io/project/pggan-tensorflow/</link>
       <pubDate>Sat, 15 Feb 2020 16:02:07 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/pggan-tensorflow/</guid>
+      <guid>https://henry32144.github.io/project/pggan-tensorflow/</guid>
       <description>&lt;p&gt;This project is the TF2.0 implementation of &lt;a href=&#34;https://arxiv.org/abs/1710.10196&#34;&gt;Progressive Growing of GANs for Improved Quality, Stability, and Variation&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CycleGAN notebook</title>
-      <link>https://henry32144.github.io/hugo-website/project/cyclegan-notebook/</link>
+      <link>https://henry32144.github.io/project/cyclegan-notebook/</link>
       <pubDate>Wed, 18 Dec 2019 17:30:39 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/cyclegan-notebook/</guid>
+      <guid>https://henry32144.github.io/project/cyclegan-notebook/</guid>
       <description>&lt;p&gt;Implement CycleGAN with Tensorflow 2.0 and PyTorch&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TD3 Pytorch</title>
-      <link>https://henry32144.github.io/hugo-website/project/td3-pytorch/</link>
+      <link>https://henry32144.github.io/project/td3-pytorch/</link>
       <pubDate>Mon, 21 Oct 2019 20:14:43 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/td3-pytorch/</guid>
+      <guid>https://henry32144.github.io/project/td3-pytorch/</guid>
       <description>&lt;p&gt;This project is a Pytorch implentation of TD3. The paper can be found here &lt;a href=&#34;https://arxiv.org/abs/1802.09477&#34;&gt;Addressing Function Approximation Error in Actor-Critic Methods&lt;/a&gt; by Scott Fujimoto, Herke van Hoof and David Meger.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Collaboration and Competition</title>
-      <link>https://henry32144.github.io/hugo-website/project/drlnd-collab-compet/</link>
+      <link>https://henry32144.github.io/project/drlnd-collab-compet/</link>
       <pubDate>Mon, 21 Oct 2019 20:05:54 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/drlnd-collab-compet/</guid>
+      <guid>https://henry32144.github.io/project/drlnd-collab-compet/</guid>
       <description>&lt;p&gt;In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tucana Neural Style</title>
-      <link>https://henry32144.github.io/hugo-website/project/tucana-neural-style/</link>
+      <link>https://henry32144.github.io/project/tucana-neural-style/</link>
       <pubDate>Mon, 21 Oct 2019 19:30:23 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/tucana-neural-style/</guid>
+      <guid>https://henry32144.github.io/project/tucana-neural-style/</guid>
       <description>&lt;p&gt;This website includes three kinds of transformations.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fast Neural Style&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The fast neural style implementation is based on &lt;a href=&#34;https://github.com/misgod/fast-neural-style-keras&#34;&gt;fast-neural-style-keras&lt;/a&gt; by misgod, We made some changes to it, and this method is base on &lt;a href=&#34;http://cs.stanford.edu/people/jcjohns/eccv16/&#34;&gt;Perceptual Losses for Real-Time Style Transfer and Super-Resolution&lt;/a&gt; by Johnson et al.&lt;/p&gt;
@@ -97,72 +97,72 @@
     
     <item>
       <title>Continuous Control</title>
-      <link>https://henry32144.github.io/hugo-website/project/drlnd-continuous-control/</link>
+      <link>https://henry32144.github.io/project/drlnd-continuous-control/</link>
       <pubDate>Mon, 21 Oct 2019 19:20:04 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/drlnd-continuous-control/</guid>
+      <guid>https://henry32144.github.io/project/drlnd-continuous-control/</guid>
       <description>&lt;p&gt;In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent&amp;rsquo;s hand is in the goal location. Currently, I use DDPG to solve the multi-agents version of this environment.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Health Tracker</title>
-      <link>https://henry32144.github.io/hugo-website/project/health-tracker/</link>
+      <link>https://henry32144.github.io/project/health-tracker/</link>
       <pubDate>Mon, 21 Oct 2019 19:12:06 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/health-tracker/</guid>
+      <guid>https://henry32144.github.io/project/health-tracker/</guid>
       <description>&lt;p&gt;This is health tracker website, you can use this to track your daily calories, get food data from Nutritionix.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dog classifier</title>
-      <link>https://henry32144.github.io/hugo-website/project/dog-project/</link>
+      <link>https://henry32144.github.io/project/dog-project/</link>
       <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/dog-project/</guid>
+      <guid>https://henry32144.github.io/project/dog-project/</guid>
       <description>&lt;p&gt;This project uses deep learning models to classify  dog breeds. The &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report.html&#34;&gt;Report&lt;/a&gt; was the Udacity MLND homework I finished in 2018. &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report_v2.html&#34;&gt;Improved&lt;/a&gt; contains the modification I did to improve the accuracy of the model. &lt;a href=&#34;https://henry32144.github.io/udacity-mlnd-dog-project/report_mobilenet.html&#34;&gt;MobileNet&lt;/a&gt; is mainly based on Improved, but change the Xception model to MobileNetV2, which is better for application.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kuzushiji Recognition</title>
-      <link>https://henry32144.github.io/hugo-website/project/kaggle-kuzushiji/</link>
+      <link>https://henry32144.github.io/project/kaggle-kuzushiji/</link>
       <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/kaggle-kuzushiji/</guid>
+      <guid>https://henry32144.github.io/project/kaggle-kuzushiji/</guid>
       <description>&lt;p&gt;This repo contains the jupyter notebook solution of kuzushiji recognition, we separate the recognition task into the detection part and the classification part.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Navigation</title>
-      <link>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</link>
+      <link>https://henry32144.github.io/project/drlnd-navigation/</link>
       <pubDate>Mon, 21 Oct 2019 18:23:42 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/drlnd-navigation/</guid>
+      <guid>https://henry32144.github.io/project/drlnd-navigation/</guid>
       <description>&lt;p&gt;This project use &lt;a href=&#34;https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf&#34;&gt;Deep Q Network&lt;/a&gt; to train an agent to navigate (and collect bananas!) in a large, square world.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Udacity Android Basics</title>
-      <link>https://henry32144.github.io/hugo-website/project/udacity-android-basics/</link>
+      <link>https://henry32144.github.io/project/udacity-android-basics/</link>
       <pubDate>Mon, 21 Oct 2019 18:09:12 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/udacity-android-basics/</guid>
+      <guid>https://henry32144.github.io/project/udacity-android-basics/</guid>
       <description>&lt;p&gt;These are my homeworks of Udactiy Android Basic Nanodegree&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Popular Movies</title>
-      <link>https://henry32144.github.io/hugo-website/project/popular-movies/</link>
+      <link>https://henry32144.github.io/project/popular-movies/</link>
       <pubDate>Mon, 21 Oct 2019 16:02:39 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/popular-movies/</guid>
+      <guid>https://henry32144.github.io/project/popular-movies/</guid>
       <description>&lt;p&gt;This is an app that provides movies information, and user can sort movies by popularity or ratings, add favorite movies, and watch trailers.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stock Price Indicator</title>
-      <link>https://henry32144.github.io/hugo-website/project/stock-price-indicator/</link>
+      <link>https://henry32144.github.io/project/stock-price-indicator/</link>
       <pubDate>Mon, 21 Oct 2019 15:50:11 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/stock-price-indicator/</guid>
+      <guid>https://henry32144.github.io/project/stock-price-indicator/</guid>
       <description>&lt;p&gt;This is a research about using Machine Learning technique to predict the stock price.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;(Don&amp;rsquo;t use in real investment otherwise you&amp;rsquo;ll lose money)&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -170,9 +170,9 @@
     
     <item>
       <title>Sushi Hunter</title>
-      <link>https://henry32144.github.io/hugo-website/project/sushi-hunter/</link>
+      <link>https://henry32144.github.io/project/sushi-hunter/</link>
       <pubDate>Mon, 21 Oct 2019 15:48:14 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/sushi-hunter/</guid>
+      <guid>https://henry32144.github.io/project/sushi-hunter/</guid>
       <description>&lt;p&gt;This project is for users to search sushi restaurants around, providing simple information about the restaurants, to help ninjas(?) solve their lunch problem.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This demo may not work correctly due to my Google map API key and the Facebook API key has changed or expired&lt;/strong&gt;&lt;/p&gt;
 </description>

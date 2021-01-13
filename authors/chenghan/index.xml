@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CHENGHAN WU</title>
-    <link>https://henry32144.github.io/hugo-website/authors/chenghan/</link>
-      <atom:link href="https://henry32144.github.io/hugo-website/authors/chenghan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://henry32144.github.io/authors/chenghan/</link>
+      <atom:link href="https://henry32144.github.io/authors/chenghan/index.xml" rel="self" type="application/rss+xml" />
     <description>CHENGHAN WU</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 ChengHan Wu</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 ChengHan Wu</copyright>
     <image>
-      <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
+      <url>https://henry32144.github.io/img/icon-192.png</url>
       <title>CHENGHAN WU</title>
-      <link>https://henry32144.github.io/hugo-website/authors/chenghan/</link>
+      <link>https://henry32144.github.io/authors/chenghan/</link>
     </image>
     
   </channel>

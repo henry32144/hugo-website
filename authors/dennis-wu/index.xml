@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dennis Wu | CHENGHAN WU</title>
-    <link>https://henry32144.github.io/hugo-website/authors/dennis-wu/</link>
-      <atom:link href="https://henry32144.github.io/hugo-website/authors/dennis-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://henry32144.github.io/authors/dennis-wu/</link>
+      <atom:link href="https://henry32144.github.io/authors/dennis-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Dennis Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 ChengHan Wu</copyright><lastBuildDate>Wed, 19 Aug 2020 16:38:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 ChengHan Wu</copyright><lastBuildDate>Wed, 19 Aug 2020 16:38:00 +0800</lastBuildDate>
     <image>
-      <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
+      <url>https://henry32144.github.io/img/icon-192.png</url>
       <title>Dennis Wu</title>
-      <link>https://henry32144.github.io/hugo-website/authors/dennis-wu/</link>
+      <link>https://henry32144.github.io/authors/dennis-wu/</link>
     </image>
     
     <item>
       <title>Intelligent Asset Allocation</title>
-      <link>https://henry32144.github.io/hugo-website/project/intelligent-asset-allocation/</link>
+      <link>https://henry32144.github.io/project/intelligent-asset-allocation/</link>
       <pubDate>Wed, 19 Aug 2020 16:38:00 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/intelligent-asset-allocation/</guid>
+      <guid>https://henry32144.github.io/project/intelligent-asset-allocation/</guid>
       <description>&lt;p&gt;This is a MVP(Minimal Viable Product) of asset allocation web application, which can help users build their stock portfolio using model like Black-litterman.&lt;/p&gt;
 </description>
     </item>

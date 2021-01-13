@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChihChun Chen | CHENGHAN WU</title>
-    <link>https://henry32144.github.io/hugo-website/authors/chihchun-chen/</link>
-      <atom:link href="https://henry32144.github.io/hugo-website/authors/chihchun-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://henry32144.github.io/authors/chihchun-chen/</link>
+      <atom:link href="https://henry32144.github.io/authors/chihchun-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>ChihChun Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 ChengHan Wu</copyright><lastBuildDate>Mon, 21 Oct 2019 19:30:23 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 ChengHan Wu</copyright><lastBuildDate>Mon, 21 Oct 2019 19:30:23 +0800</lastBuildDate>
     <image>
-      <url>https://henry32144.github.io/hugo-website/img/icon-192.png</url>
+      <url>https://henry32144.github.io/img/icon-192.png</url>
       <title>ChihChun Chen</title>
-      <link>https://henry32144.github.io/hugo-website/authors/chihchun-chen/</link>
+      <link>https://henry32144.github.io/authors/chihchun-chen/</link>
     </image>
     
     <item>
       <title>Tucana Neural Style</title>
-      <link>https://henry32144.github.io/hugo-website/project/tucana-neural-style/</link>
+      <link>https://henry32144.github.io/project/tucana-neural-style/</link>
       <pubDate>Mon, 21 Oct 2019 19:30:23 +0800</pubDate>
-      <guid>https://henry32144.github.io/hugo-website/project/tucana-neural-style/</guid>
+      <guid>https://henry32144.github.io/project/tucana-neural-style/</guid>
       <description>&lt;p&gt;This website includes three kinds of transformations.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fast Neural Style&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The fast neural style implementation is based on &lt;a href=&#34;https://github.com/misgod/fast-neural-style-keras&#34;&gt;fast-neural-style-keras&lt;/a&gt; by misgod, We made some changes to it, and this method is base on &lt;a href=&#34;http://cs.stanford.edu/people/jcjohns/eccv16/&#34;&gt;Perceptual Losses for Real-Time Style Transfer and Super-Resolution&lt;/a&gt; by Johnson et al.&lt;/p&gt;
