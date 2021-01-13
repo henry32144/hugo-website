@@ -5,12 +5,30 @@
     <link>https://henry32144.github.io/project/</link>
       <atom:link href="https://henry32144.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 ChengHan Wu</copyright><lastBuildDate>Wed, 19 Aug 2020 16:38:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 ChengHan Wu</copyright><lastBuildDate>Wed, 13 Jan 2021 21:59:22 +0800</lastBuildDate>
     <image>
       <url>https://henry32144.github.io/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://henry32144.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Night Portfolio</title>
+      <link>https://henry32144.github.io/project/night-portfolio/</link>
+      <pubDate>Wed, 13 Jan 2021 21:59:22 +0800</pubDate>
+      <guid>https://henry32144.github.io/project/night-portfolio/</guid>
+      <description>&lt;p&gt;My new portfolio website, I also utilize Bert QA model with Tensorflow.js to answer some of my questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>React Instagram Practice</title>
+      <link>https://henry32144.github.io/project/react-instagram-practice/</link>
+      <pubDate>Wed, 13 Jan 2021 21:59:11 +0800</pubDate>
+      <guid>https://henry32144.github.io/project/react-instagram-practice/</guid>
+      <description>&lt;p&gt;Built this website using React.js and styled component.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Intelligent Asset Allocation</title>
